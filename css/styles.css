@@ -1,0 +1,10 @@
+.navbar{
+  margin-bottom: 0;
+  background-color: #491F33;
+  color: #D0863F;
+}
+
+#navbar li a:hover{
+  background-color: #D0863F;
+  color: white;
+}
